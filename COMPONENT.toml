@@ -3,7 +3,7 @@ name = "SigmaOS-ambition"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ambition component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
